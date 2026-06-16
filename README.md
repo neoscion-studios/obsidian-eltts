@@ -43,3 +43,7 @@ The release workflow builds the plugin and attaches the files BRAT needs: `manif
 - `Stop reading aloud`
 
 The default voice ID is ElevenLabs' Rachel voice. You can paste any ElevenLabs voice ID into the settings tab.
+
+## License
+
+MIT
