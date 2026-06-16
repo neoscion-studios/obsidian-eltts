@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-eltts",
+  "name": "ElevenLabs Text to Speech",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Read Obsidian notes aloud with the ElevenLabs text-to-speech API.",
+  "author": "Ken Smith",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
